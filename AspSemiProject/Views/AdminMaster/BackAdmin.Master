@@ -1,0 +1,232 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BackAdmin.master.cs" Inherits="AspSemiProject.Views.AdminMaster.BackAdmin" %>
+
+<!DOCTYPE html>
+
+<html dir="rtl" lang="he">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+    <title>מערכת נהול השאלת ספרים</title>
+    <!-- Simple bar CSS -->
+    <link rel="stylesheet" href="css/simplebar.css">
+    <!-- Fonts CSS -->
+    <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Icons CSS -->
+    <link rel="stylesheet" href="css/feather.css">
+    <!-- Date Range Picker CSS -->
+    <link rel="stylesheet" href="css/daterangepicker.css">
+    <!-- App CSS -->
+    <link rel="stylesheet" href="css/app-light.css" id="lightTheme" disabled>
+    <link rel="stylesheet" href="css/app-dark.css" id="darkTheme">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="vertical  dark rtl ">
+    <div class="wrapper">
+        <nav class="topnav navbar navbar-light">
+            <button type="button" class="navbar-toggler text-muted mt-2 p-0 mr-3 collapseSidebar">
+                <i class="fe fe-menu navbar-toggler-icon"></i>
+            </button>
+            <form class="form-inline mr-auto searchform text-muted">
+                <input class="form-control mr-sm-2 bg-transparent border-0 pl-4 text-muted" type="search" placeholder="Type something..." aria-label="Search">
+            </form>
+            <ul class="nav">
+                <li class="nav-item">
+                    <a class="nav-link text-muted my-2" href="#" id="modeSwitcher" data-mode="dark">
+                        <i class="fe fe-sun fe-16"></i>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="#" id="navbarDropdownMenuLink" role="button" >
+                        <span class="avatar avatar-sm mt-2">                            
+                            <asp:Image ID="imgProfile" runat="server" Class="avatar-img rounded-circle" />
+                        </span>
+                    </a>
+                   
+                </li>
+            </ul>
+        </nav>
+        <aside class="sidebar-left border-right bg-white shadow" id="leftSidebar" data-simplebar>
+            <a href="#" class="btn collapseSidebar toggle-btn d-lg-none text-muted ml-2 mt-3" data-toggle="toggle">
+                <i class="fe fe-x"><span class="sr-only"></span></i>
+            </a>
+            <nav class="vertnav navbar navbar-light">
+                <!-- nav bar -->
+                <div class="w-100 mb-4 d-flex">
+                    <a class="navbar-brand mx-auto mt-2 flex-fill text-center" href="./Default.aspx">
+                        <svg version="1.1" id="logo" class="navbar-brand-img brand-sm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 240 240" xml:space="preserve">
+                            <image href="https://fusionauth.io/img/blogs/core-identity-considered-harmful/asp.net-core-considered-harmful.svg" x="0" y="0" height="240" width="240" />
+                        </svg>
+                    </a>
+                </div>
+                <ul class="navbar-nav flex-fill w-100 mb-2">
+                    <li class="nav-item">
+                        <a class="nav-link" href="Default.aspx">
+                            <i class="fe fe-home fe-16"></i>
+                            <span class="ml-3 item-text">עמוד בית</span><span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav flex-fill w-100 mb-2">
+                    <li class="nav-item dropdown">
+                        <a href="#Manegment" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                            <i class="fe fe-trending-up fe-16"></i>
+                            <span class="ml-3 item-text">מערכת ניהול</span>
+                        </a>
+                        <ul class="collapse list-unstyled pl-4 w-100" id="Manegment">
+                            <li class="nav-item">
+                                <a href="#Admins" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                                    <i class="fe fe-smile fe-16"></i>
+                                    <span class="ml-3 item-text">נהול מנהלים</span>
+                                </a>
+                                <ul class="collapse list-unstyled pl-4 w-100" id="Admins">
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="AdminList.aspx"><span class="ml-1 item-text">רשימת מנהלים</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="AdminAddEdit.aspx"><span class="ml-1 item-text">הוספה/עריכה מנהל</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Books" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                                    <i class="fe fe-book fe-16"></i>
+                                    <span class="ml-3 item-text">נהול ספרים</span>
+                                </a>
+                                <ul class="collapse list-unstyled pl-4 w-100" id="Books">
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="BookList.aspx"><span class="ml-1 item-text">רשימת ספרים</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="BookAddEdit.aspx"><span class="ml-1 item-text">הוספה/עריכה ספר</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Categories" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                                    <i class="fe fe-layers fe-16"></i>
+                                    <span class="ml-3 item-text">נהול קטגוריות</span>
+                                </a>
+                                <ul class="collapse list-unstyled pl-4 w-100" id="Categories">
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="CategoryList.aspx"><span class="ml-1 item-text">רשימת קטגוריות</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="CategoryAddEdit.aspx"><span class="ml-1 item-text">הוספה/עריכה קטגוריה</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Cities" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                                    <i class="fe fe-home fe-16"></i>
+                                    <span class="ml-3 item-text">נהול ערים</span>
+                                </a>
+                                <ul class="collapse list-unstyled pl-4 w-100" id="Cities">
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="CityList.aspx"><span class="ml-1 item-text">רשימת ערים</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="CityAddEdit.aspx"><span class="ml-1 item-text">הוספה/עריכה עיר</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Clients" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                                    <i class="fe fe-users fe-16"></i>
+                                    <span class="ml-3 item-text">נהול לקוחות</span>
+                                </a>
+                                <ul class="collapse list-unstyled pl-4 w-100" id="Clients">
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="ClientList.aspx"><span class="ml-1 item-text">רשימת לקוחות</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="ClientAddEdit.aspx"><span class="ml-1 item-text">הוספה/עריכה לקוחות</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Loans" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                                    <i class="fe fe-shopping-cart fe-16"></i>
+                                    <span class="ml-3 item-text">נהול השאלות</span>
+                                </a>
+                                <ul class="collapse list-unstyled pl-4 w-100" id="Loans">
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="LoanList.aspx"><span class="ml-1 item-text">רשימת השאלות</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="LoanAddEdit.aspx"><span class="ml-1 item-text">הוספה/עריכה השאלה</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#Status" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                                    <i class="fe fe-award fe-16"></i>
+                                    <span class="ml-3 item-text">נהול סטטוסים</span>
+                                </a>
+                                <ul class="collapse list-unstyled pl-4 w-100" id="Status">
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="StatusList.aspx"><span class="ml-1 item-text">רשימת סטטוסים</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link pl-3" href="StatusAddEdit.aspx"><span class="ml-1 item-text">הוספה/עריכה סטטוס</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </nav>
+        </aside>
+        <main role="main" class="main-content">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-12">
+
+                        <form id="form1" runat="server">
+                            <asp:ContentPlaceHolder ID="MainCnt" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </form>
+
+                    </div>
+                    <!-- .col-12 -->
+                </div>
+                <!-- .container-fluid -->
+            </div>
+        </main>
+        <!-- main -->
+    </div>
+    <!-- .wrapper -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/moment.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/simplebar.min.js"></script>
+    <script src='js/daterangepicker.js'></script>
+    <script src='js/jquery.stickOnScroll.js'></script>
+    <script src="js/tinycolor-min.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/apps.js"></script>
+    <asp:ContentPlaceHolder ID="Footer" runat="server">
+    </asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="UnderFooter" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

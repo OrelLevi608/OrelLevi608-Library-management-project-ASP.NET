@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B3C370253AC3B855B6854E40044CFBDA_\u05D8\u05E8_\u05D1_VISUAL_STUDIO_ASP.NET_01.08.2024_ASPSEMIPROJECT_ASPSEMIPROJECT_APP_DATA_ASPSEMIPROJECT.MDF/True/SqlTable/dbo.T_Client.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B3C370253AC3B855B6854E40044CFBDA_\u05D8\u05E8_\u05D1_VISUAL_STUDIO_ASP.NET_01.08.2024_ASPSEMIPROJECT_ASPSEMIPROJECT_APP_DATA_ASPSEMIPROJECT.MDF/True/SqlTable/dbo.T_Book.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B3C370253AC3B855B6854E40044CFBDA_\u05D8\u05E8_\u05D1_VISUAL_STUDIO_ASP.NET_01.08.2024_ASPSEMIPROJECT_ASPSEMIPROJECT_APP_DATA_ASPSEMIPROJECT.MDF/True/SqlTable/dbo.T_Admin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|c:\\visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\visual_studio_asp.net\\01.08.2024\\aspsemiproject\\aspsemiproject\\views\\adminmaster\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|solutionrelative:aspsemiproject\\views\\adminmaster\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\aspsemiproject\\views\\startapp\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|solutionrelative:aspsemiproject\\views\\startapp\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\aspsemiproject\\views\\adminmaster\\statuslist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|solutionrelative:aspsemiproject\\views\\adminmaster\\statuslist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\aspsemiproject\\views\\adminmaster\\statusaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|solutionrelative:aspsemiproject\\views\\adminmaster\\statusaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\aspsemiproject\\views\\adminmaster\\loanlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|solutionrelative:aspsemiproject\\views\\adminmaster\\loanlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\aspsemiproject\\views\\adminmaster\\loanaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B396715-6E2C-4FB3-AF85-CA50FF473B98}|AspSemiProject\\AspSemiProject.csproj|solutionrelative:aspsemiproject\\views\\adminmaster\\loanaddedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.T_Client [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B3C370253AC3B855B6854E40044CFBDA_\u05D8\u05E8_\u05D1_VISUAL_STUDIO_ASP.NET_01.08.2024_ASPSEMIPROJECT_ASPSEMIPROJECT_APP_DATA_ASPSEMIPROJECT.MDF/True/SqlTable/dbo.T_Client.sql",
+              "ToolTip": "dbo.T_Client [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-02T01:03:22.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.T_Book [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B3C370253AC3B855B6854E40044CFBDA_\u05D8\u05E8_\u05D1_VISUAL_STUDIO_ASP.NET_01.08.2024_ASPSEMIPROJECT_ASPSEMIPROJECT_APP_DATA_ASPSEMIPROJECT.MDF/True/SqlTable/dbo.T_Book.sql",
+              "ToolTip": "dbo.T_Book [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-02T01:03:08.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.T_Admin [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B3C370253AC3B855B6854E40044CFBDA_\u05D8\u05E8_\u05D1_VISUAL_STUDIO_ASP.NET_01.08.2024_ASPSEMIPROJECT_ASPSEMIPROJECT_APP_DATA_ASPSEMIPROJECT.MDF/True/SqlTable/dbo.T_Admin.sql",
+              "ToolTip": "dbo.T_Admin [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-02T01:03:02.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\Default.aspx",
+              "RelativeDocumentMoniker": "AspSemiProject\\Views\\AdminMaster\\Default.aspx",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\Default.aspx",
+              "RelativeToolTip": "AspSemiProject\\Views\\AdminMaster\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-02T00:41:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogIn.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\StartApp\\LogIn.aspx.cs",
+              "RelativeDocumentMoniker": "AspSemiProject\\Views\\StartApp\\LogIn.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\StartApp\\LogIn.aspx.cs",
+              "RelativeToolTip": "AspSemiProject\\Views\\StartApp\\LogIn.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:29:12.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusList.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\StatusList.aspx.cs",
+              "RelativeDocumentMoniker": "AspSemiProject\\Views\\AdminMaster\\StatusList.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\StatusList.aspx.cs",
+              "RelativeToolTip": "AspSemiProject\\Views\\AdminMaster\\StatusList.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:28:50.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusAddEdit.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\StatusAddEdit.aspx.cs",
+              "RelativeDocumentMoniker": "AspSemiProject\\Views\\AdminMaster\\StatusAddEdit.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\StatusAddEdit.aspx.cs",
+              "RelativeToolTip": "AspSemiProject\\Views\\AdminMaster\\StatusAddEdit.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:28:22.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanList.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\LoanList.aspx.cs",
+              "RelativeDocumentMoniker": "AspSemiProject\\Views\\AdminMaster\\LoanList.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\LoanList.aspx.cs",
+              "RelativeToolTip": "AspSemiProject\\Views\\AdminMaster\\LoanList.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:28:18.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanAddEdit.aspx.cs",
+              "DocumentMoniker": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\LoanAddEdit.aspx.cs",
+              "RelativeDocumentMoniker": "AspSemiProject\\Views\\AdminMaster\\LoanAddEdit.aspx.cs",
+              "ToolTip": "C:\\Visual_studio_studying\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\Visual_Studio_ASP.NET\\01.08.2024\\AspSemiProject\\AspSemiProject\\Views\\AdminMaster\\LoanAddEdit.aspx.cs",
+              "RelativeToolTip": "AspSemiProject\\Views\\AdminMaster\\LoanAddEdit.aspx.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwE0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:25:19.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.csproj.AssemblyReference.cache
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.csproj.CoreCompileInputs.cache
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\AspSemiProject.dll.config
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\AspSemiProject.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\AspSemiProject.pdb
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\csc.exe
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\csc.exe.config
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\csc.rsp
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\csi.exe
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\csi.exe.config
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\csi.rsp
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.AppContext.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Console.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.Compression.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Net.Http.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Net.Sockets.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.ValueTuple.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.XPath.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\vbc.exe
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\vbc.exe.config
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\vbc.rsp
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\VBCSCompiler.exe
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\obj\Debug\AspSemiP.17DE4D32.Up2Date
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.dll
+C:\Tohna\ASP.NET\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.pdb
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\AspSemiProject.dll.config
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\AspSemiProject.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\AspSemiProject.pdb
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\csc.exe
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\csc.exe.config
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\csc.rsp
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\csi.exe
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\csi.exe.config
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\csi.rsp
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.AppContext.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Console.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.Compression.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Net.Http.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Net.Sockets.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.ValueTuple.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.XPath.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\vbc.exe
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\vbc.exe.config
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\vbc.rsp
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\VBCSCompiler.exe
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.csproj.AssemblyReference.cache
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.csproj.CoreCompileInputs.cache
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\obj\Debug\AspSemiP.17DE4D32.Up2Date
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.dll
+C:\Visual_studio_studying\שנה ב\סמסטר ב\Visual_Studio_ASP.NET\01.08.2024\AspSemiProject\AspSemiProject\obj\Debug\AspSemiProject.pdb

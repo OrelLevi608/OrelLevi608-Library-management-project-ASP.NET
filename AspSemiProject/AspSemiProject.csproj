@@ -1,0 +1,360 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6B396715-6E2C-4FB3-AF85-CA50FF473B98}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AspSemiProject</RootNamespace>
+    <AssemblyName>AspSemiProject</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44308</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Global.asax" />
+    <Content Include="Starter.aspx" />
+    <Content Include="Uploads\Admin\Admin.jpg" />
+    <Content Include="Uploads\Admin\Admin2.jpg" />
+    <Content Include="Uploads\Book\UNKNOWN.jpg" />
+    <Content Include="Uploads\Category\Adventure fiction.jpg" />
+    <Content Include="Uploads\Category\Fantasy.jpg" />
+    <Content Include="Uploads\Category\SF.jpg" />
+    <Content Include="Uploads\Category\UNSORTED.jpg" />
+    <Content Include="Uploads\Client\NOUSER.jpg" />
+    <Content Include="Views\AdminMaster\AdminAddEdit.aspx" />
+    <Content Include="Views\AdminMaster\AdminList.aspx" />
+    <Content Include="Views\AdminMaster\BookAddEdit.aspx" />
+    <Content Include="Views\AdminMaster\BookList.aspx" />
+    <Content Include="Views\AdminMaster\CategoryAddEdit.aspx" />
+    <Content Include="Views\AdminMaster\CategoryList.aspx" />
+    <Content Include="Views\AdminMaster\CityAddEdit.aspx" />
+    <Content Include="Views\AdminMaster\CityList.aspx" />
+    <Content Include="Views\AdminMaster\ClientAddEdit.aspx" />
+    <Content Include="Views\AdminMaster\ClientList.aspx" />
+    <Content Include="Views\AdminMaster\css\apexcharts.css" />
+    <Content Include="Views\AdminMaster\css\app-dark.css" />
+    <Content Include="Views\AdminMaster\css\app-light.css" />
+    <Content Include="Views\AdminMaster\css\app-rtl.css" />
+    <Content Include="Views\AdminMaster\css\bootstrap-datepicker.css" />
+    <Content Include="Views\AdminMaster\css\dataTables.bootstrap4.css" />
+    <Content Include="Views\AdminMaster\css\daterangepicker.css" />
+    <Content Include="Views\AdminMaster\css\Default.css" />
+    <Content Include="Views\AdminMaster\css\dropzone.css" />
+    <Content Include="Views\AdminMaster\css\dropzone.min.css" />
+    <Content Include="Views\AdminMaster\css\feather.css" />
+    <Content Include="Views\AdminMaster\css\fullcalendar.css" />
+    <Content Include="Views\AdminMaster\css\jquery.steps.css" />
+    <Content Include="Views\AdminMaster\css\jquery.timepicker.css" />
+    <Content Include="Views\AdminMaster\css\perfect-scrollbar.css" />
+    <Content Include="Views\AdminMaster\css\quill.snow.css" />
+    <Content Include="Views\AdminMaster\css\select2-bootstrap4.css" />
+    <Content Include="Views\AdminMaster\css\select2.css" />
+    <Content Include="Views\AdminMaster\css\simplebar.css" />
+    <Content Include="Views\AdminMaster\css\uppy.min.css" />
+    <Content Include="Views\AdminMaster\Default.aspx" />
+    <Content Include="Views\AdminMaster\fonts\feather.svg" />
+    <Content Include="Views\AdminMaster\js\apexcharts.custom.js" />
+    <Content Include="Views\AdminMaster\js\apexcharts.min.js" />
+    <Content Include="Views\AdminMaster\js\apps.js" />
+    <Content Include="Views\AdminMaster\js\bootstrap-datepicker.min.js" />
+    <Content Include="Views\AdminMaster\js\bootstrap.min.js" />
+    <Content Include="Views\AdminMaster\js\Chart.min.js" />
+    <Content Include="Views\AdminMaster\js\config.js" />
+    <Content Include="Views\AdminMaster\js\d3.min.js" />
+    <Content Include="Views\AdminMaster\js\datamaps-zoomto.js" />
+    <Content Include="Views\AdminMaster\js\datamaps.all.min.js" />
+    <Content Include="Views\AdminMaster\js\datamaps.custom.js" />
+    <Content Include="Views\AdminMaster\js\dataTables.bootstrap4.min.js" />
+    <Content Include="Views\AdminMaster\js\daterangepicker.js" />
+    <Content Include="Views\AdminMaster\js\dropzone.min.js" />
+    <Content Include="Views\AdminMaster\js\fullcalendar.custom.js" />
+    <Content Include="Views\AdminMaster\js\fullcalendar.js" />
+    <Content Include="Views\AdminMaster\js\gauge.min.js" />
+    <Content Include="Views\AdminMaster\js\jquery.dataTables.min.js" />
+    <Content Include="Views\AdminMaster\js\jquery.mask.min.js" />
+    <Content Include="Views\AdminMaster\js\jquery.min.js" />
+    <Content Include="Views\AdminMaster\js\jquery.sparkline.min.js" />
+    <Content Include="Views\AdminMaster\js\jquery.steps.min.js" />
+    <Content Include="Views\AdminMaster\js\jquery.stickOnScroll.js" />
+    <Content Include="Views\AdminMaster\js\jquery.timepicker.js" />
+    <Content Include="Views\AdminMaster\js\jquery.validate.min.js" />
+    <Content Include="Views\AdminMaster\js\moment.min.js" />
+    <Content Include="Views\AdminMaster\js\perfect-scrollbar.min.js" />
+    <Content Include="Views\AdminMaster\js\popper.min.js" />
+    <Content Include="Views\AdminMaster\js\quill.min.js" />
+    <Content Include="Views\AdminMaster\js\select2.min.js" />
+    <Content Include="Views\AdminMaster\js\simplebar.min.js" />
+    <Content Include="Views\AdminMaster\js\tinycolor-min.js" />
+    <Content Include="Views\AdminMaster\js\topojson.min.js" />
+    <Content Include="Views\AdminMaster\js\uppy.min.js" />
+    <Content Include="Views\AdminMaster\LoanAddEdit.aspx" />
+    <Content Include="Views\AdminMaster\LoanList.aspx" />
+    <Content Include="Views\AdminMaster\StatusAddEdit.aspx" />
+    <Content Include="Views\AdminMaster\StatusList.aspx" />
+    <Content Include="Views\StartApp\LogIn.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Code\BLL\Category.cs" />
+    <Compile Include="App_Code\DAL\CategoryDAL.cs" />
+    <Compile Include="App_Code\DbContext.cs" />
+    <Compile Include="App_Code\BLL\Admins.cs" />
+    <Compile Include="App_Code\DAL\AdminsDAL.cs" />
+    <Compile Include="App_Code\BLL\Book.cs" />
+    <Compile Include="App_Code\DAL\BookDAL.cs" />
+    <Compile Include="App_Code\BLL\City.cs" />
+    <Compile Include="App_Code\DAL\CityDAL.cs" />
+    <Compile Include="App_Code\BLL\Client.cs" />
+    <Compile Include="App_Code\DAL\ClientDAL.cs" />
+    <Compile Include="App_Code\BLL\Loan.cs" />
+    <Compile Include="App_Code\DAL\LoanDAL.cs" />
+    <Compile Include="App_Code\BLL\Status.cs" />
+    <Compile Include="App_Code\DAL\StatusDAL.cs" />
+    <Compile Include="App_Code\GlobFunc.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Starter.aspx.cs">
+      <DependentUpon>Starter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Starter.aspx.designer.cs">
+      <DependentUpon>Starter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\AdminAddEdit.aspx.cs">
+      <DependentUpon>AdminAddEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\AdminAddEdit.aspx.designer.cs">
+      <DependentUpon>AdminAddEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\AdminList.aspx.cs">
+      <DependentUpon>AdminList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\AdminList.aspx.designer.cs">
+      <DependentUpon>AdminList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\BackAdmin.Master.cs">
+      <DependentUpon>BackAdmin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\BackAdmin.Master.designer.cs">
+      <DependentUpon>BackAdmin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\BookAddEdit.aspx.cs">
+      <DependentUpon>BookAddEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\BookAddEdit.aspx.designer.cs">
+      <DependentUpon>BookAddEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\BookList.aspx.cs">
+      <DependentUpon>BookList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\BookList.aspx.designer.cs">
+      <DependentUpon>BookList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CategoryAddEdit.aspx.cs">
+      <DependentUpon>CategoryAddEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CategoryAddEdit.aspx.designer.cs">
+      <DependentUpon>CategoryAddEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CategoryList.aspx.cs">
+      <DependentUpon>CategoryList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CategoryList.aspx.designer.cs">
+      <DependentUpon>CategoryList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CityAddEdit.aspx.cs">
+      <DependentUpon>CityAddEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CityAddEdit.aspx.designer.cs">
+      <DependentUpon>CityAddEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CityList.aspx.cs">
+      <DependentUpon>CityList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\CityList.aspx.designer.cs">
+      <DependentUpon>CityList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\ClientAddEdit.aspx.cs">
+      <DependentUpon>ClientAddEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\ClientAddEdit.aspx.designer.cs">
+      <DependentUpon>ClientAddEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\ClientList.aspx.cs">
+      <DependentUpon>ClientList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\ClientList.aspx.designer.cs">
+      <DependentUpon>ClientList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\LoanAddEdit.aspx.cs">
+      <DependentUpon>LoanAddEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\LoanAddEdit.aspx.designer.cs">
+      <DependentUpon>LoanAddEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\LoanList.aspx.cs">
+      <DependentUpon>LoanList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\LoanList.aspx.designer.cs">
+      <DependentUpon>LoanList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\StatusAddEdit.aspx.cs">
+      <DependentUpon>StatusAddEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\StatusAddEdit.aspx.designer.cs">
+      <DependentUpon>StatusAddEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminMaster\StatusList.aspx.cs">
+      <DependentUpon>StatusList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\AdminMaster\StatusList.aspx.designer.cs">
+      <DependentUpon>StatusList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StartApp\LogIn.aspx.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\StartApp\LogIn.aspx.designer.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Views\AdminMaster\data\contacts.json" />
+    <Content Include="Views\AdminMaster\data\eu.topo.json" />
+    <Content Include="Views\AdminMaster\fonts\feather.eot" />
+    <Content Include="Views\AdminMaster\fonts\feather.ttf" />
+    <Content Include="Views\AdminMaster\fonts\feather.woff" />
+    <Content Include="Views\AdminMaster\BackAdmin.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Views\StartApp\css\" />
+    <Folder Include="Views\StartApp\js\" />
+    <Folder Include="Views\UserApp\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>6263</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44308/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
